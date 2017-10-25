@@ -1,0 +1,74 @@
+/*Time in Nanoseconds*/
+Random Array 100:
+Selection: 110000  
+Insertion: 179200 
+BubblesortS: 230500 
+BubblesortNS: 409600 
+Mergesort: 68100  
+Quicksort: 40800 
+
+Sorted Array 100:
+Selection: 100400  
+Insertion: 4000  
+BubblesortS: 4900  
+BubblesortNS: 321000  
+Mergesort: 57200  
+Quicksort: 23100 
+
+Partial Sorted 100:
+Selection: 102800  
+Insertion: 22900  
+BubblesortS: 140800  
+BubblesortNS: 329600  
+Mergesort: 61000  
+Quicksort: 29400 
+
+Random Array 1000:
+Selection: 9672800 
+Insertion: 16210300  
+BubblesortS: 22498100  
+BubblesortNS: 39714300
+Mergesort: 974900
+Quicksort: 487700 
+
+Sorted Array 1000:
+Selection: 9523300  
+Insertion:43900 
+BubblesortS:46400  
+BubblesortNS:31292300
+Mergesort:730400
+Quicksort: 305900  
+
+Partial Sorted 1000:
+Selection: 9519500  
+Insertion: 2191500
+BubblesortS: 14191100  
+BubblesortNS: 32982900
+Mergesort: 784700
+Quicksort: 423900  
+
+Random Array 10000:
+Selection: 947575400  
+Insertion: 1609915200  
+BubblesortS: 2240819500  
+BubblesortNS: 4091549400
+Mergesort: 11273300
+Quicksort: 6273500 
+
+Sorted Array 10000:
+Selection:944980400  
+Insertion:590500 
+BubblesortS:451600
+BubblesortNS:3308565900
+Mergesort:9240000
+Quicksort: 4232300  
+
+Partial Sorted 10000:
+Selection: 945589700  
+Insertion: 213340400  
+BubblesortS: 1584677800  
+BubblesortNS: 3397003200
+Mergesort: 10069900
+Quicksort: 5164700 
+
+
